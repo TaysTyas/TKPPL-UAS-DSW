@@ -112,7 +112,6 @@ background-color: white;
   color: black;
 }
 
-
 h4{
 color: #1B1B1B;
 font: bold 18px/24px "Raleway", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -125,7 +124,7 @@ margin-bottom:30px;
 }
 h3{
 font-size: 20px;
-color: #696969;
+color: #0a0a0a;
 }
 a.button {
 text-decoration: none;
@@ -360,50 +359,6 @@ text-align: left;
 color: #05810b;
 padding: 30px 0;
 }
-.about-us {
-  font-size: 18px;
-  text-align: center;
-  margin: 20px;
-}
-
-.follow-us {
-  font-size: 18px;
-  text-align: center;
-  margin: 20px;
-}
-
-.social-links {
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  margin-top: 50px;
-  font-size: 18px;
-  text-align: center;
-  margin: 20px;
-}
-
-.social-links li {
-  margin: 0 20px;
-  font-size: 18px;
-  text-align: center;
-  margin: 20px;
-}
-
-.social-links i {
-  margin-right: 10px;
-  font-size: 18px;
-  text-align: center;
-  margin: 20px;
-}
-
-.social-links a {
-  font-size: 18px;
-  text-align: center;
-  margin: 20px;
-  font-size: 24px;
-  text-decoration: none;
-  color: blue;
-}
 .addthis_default_style {
 text-align: left;
 list-style: none;
@@ -426,10 +381,10 @@ display: block;
 float:right;
 }
 .social-icons a{ 
-color: #337ab7;
+color: #0c0c0c;
 text-decoration: none;
 padding: 0px 0 0 15px;
-border: 1px solid #337ab7;
+border: 1px solid #0a0a0a;
 border-radius: 50%;
 width: 45px;
 float: left;
@@ -570,7 +525,6 @@ margin: 0 10%;
 .box:hover .content .image img{
   border-color: black;
 }
-
 .Features p{
   text-align: justify;
 }
