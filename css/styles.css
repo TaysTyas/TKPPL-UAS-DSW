@@ -571,6 +571,9 @@ margin: 0 10%;
   border-color: black;
 }
 
+.Features p{
+  text-align: justify;
+}
 .Features h1{
   text-align: center;
   color: #05810b;
