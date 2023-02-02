@@ -225,6 +225,12 @@ display:block;
 .subscribe h2{
 color:#fff;
 }
+.subscribe h1{
+  color:#fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: auto;
+  }
 .subscribe input{
 padding: 20px 10px;
 width: 350px;
