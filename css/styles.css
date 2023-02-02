@@ -112,7 +112,7 @@ padding-bottom: 100px;
 padding: 30px 0;
 margin-bottom: 0;
 color: white;
-background:#f53fa3;
+background:#ece2e8;
 background-size: cover;
 text-align: center;
 background:white;
@@ -122,13 +122,13 @@ background-size:cover;
 display:block;
 width: auto;
 height: auto;
-margin-top: 50px;
-margin-bottom: 170px;
+margin-top: 0px;
+margin-bottom: 0px;
 }
 .mainBanner h1, .mainBanner .h1 {
 font-size: 35px;
 text-align: left;
-color: #ffe9fa;
+color: #0f010c;
 text-transform: uppercase;
 }
 .mainBanner p {
@@ -157,7 +157,7 @@ padding: 0;
 display: block;
 margin-left: auto;
 margin-right: auto;
-width: 505px;
+width: 333px;
 height: auto;
 }
 .highlights {
