@@ -354,6 +354,8 @@ margin-left: -10px;
 .subscribe-description { 
 padding: 40px 0;
 }
+
+
 .footer-section {
 background: white;
 text-align: left;
@@ -523,4 +525,12 @@ margin: 0 10%;
 }
 .box:hover .content .image img{
   border-color: black;
+}
+
+.Features h1{
+  text-align: center;
+  color: #05810b;
+}
+.containerF{
+  padding: 30px;
 }
