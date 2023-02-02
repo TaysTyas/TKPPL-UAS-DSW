@@ -2,7 +2,7 @@ body {
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 17px;
 line-height: 1.42857;
-color: #3cc719; 
+color: #114603; 
 background-color: white;
 }
 
@@ -136,7 +136,7 @@ margin-bottom: 15px;
 font-size: 20px;
 font-weight: 200;
 text-align:justify;
-color: #82da1e;
+color: #05810b;
 }
 .mainBanner  img.img-iPhone {
 position: relative;
@@ -161,7 +161,7 @@ width: 333px;
 height: auto;
 }
 .highlights {
-  background: rgb(219, 240, 35);
+  background: #05810b;
   text-align: center;
   padding: 100px 0;
 }
@@ -186,7 +186,7 @@ margin-top: 20px;
 margin-bottom: 30px; 
 }
 .ourFeatures {
-  background: #e92525;
+  background: white;
   text-align: left;
   padding: 100px 0 0;
 }
@@ -215,7 +215,7 @@ margin-top:150px;
 margin-bottom:0px;
 }
 .subscribe {
-background: #eb9a32;
+background: #05810b;
 text-align: center;
 padding: 100px 0;
 background-size: cover;
