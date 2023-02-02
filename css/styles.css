@@ -356,7 +356,8 @@ padding: 40px 0;
 .footer-section {
 background: white;
 text-align: left;
-padding: 60px 0;
+color: #05810b;
+padding: 30px 0;
 }
 .addthis_default_style {
 text-align: left;
@@ -420,6 +421,7 @@ margin-bottom: 15px;
 font-size: 16px;
 font-weight: 200;
 text-align:center;
+color: #05810b;
 }
 .mainBanner .img-iPhone { 
 width: 267px; 
