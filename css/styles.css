@@ -351,6 +351,8 @@ margin-left: -10px;
 .subscribe-description { 
 padding: 40px 0;
 }
+
+
 .footer-section {
 background: white;
 text-align: left;
@@ -522,5 +524,15 @@ margin: 0 10%;
   border-color: black;
 }
 
+<<<<<<< HEAD
 
 
+=======
+.Features h1{
+  text-align: center;
+  color: #05810b;
+}
+.containerF{
+  padding: 30px;
+}
+>>>>>>> 9b58c2ed0abd0d98a887f62ebb23f19b730ff423
