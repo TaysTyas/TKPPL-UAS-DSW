@@ -180,7 +180,7 @@ a.button:hover {
 color: white;
 }
 .button:hover {
-background: #40c9f4;
+background: #070707;
 border-color: #40c9f4;
 }
 .buttons-wrapper .button-stripe {
@@ -211,7 +211,7 @@ padding: 8px 0;
 display: block;
 width: 10px;
 height: 10px; 
-background:#1666ce;
+background:black;
 }
 .mainBanner {
 padding-top: 100px;
